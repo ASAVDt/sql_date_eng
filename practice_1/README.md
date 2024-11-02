@@ -11,7 +11,8 @@
 
 ---
 
-И так, 
+И так, начнем с того что для начала вам понадобится загрузить данные в базу данных из схемы [schema_stg.sql](https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/schema_stg.sql)
+
 
 
 
