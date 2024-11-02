@@ -22,7 +22,7 @@
 > 
 > *Анлийская версия статьи [здесь](https://medium.com/rock-your-data/getting-started-with-data-lake-4bb13643f9)*
 
-
+После загрузки данных важно сделать таблицу нормализированной, как это делается вы можете посмотреть [здесь](https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/from_stg_to_dw.sql)
 
 
 
