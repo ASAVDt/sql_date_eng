@@ -34,4 +34,4 @@
 - Снежинка
 - Звезда
 
-Узнать о типах схем можно [здесь](https://www.astera.com/ru/type/blog/star-schema-vs-snowflake-schema/)
+Узнать о типах схем подробнее, а также их отличие можно [здесь](https://www.astera.com/ru/type/blog/star-schema-vs-snowflake-schema/)
