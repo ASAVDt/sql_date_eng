@@ -76,3 +76,16 @@ inner join dw.customer_dim cd on sf.cust_id=cd.cust_id;
 ```
 ---
 ## Готово! Теперь вы можете делать аналитику прямо в Google Data Studio и получать любую аналитическую характиристику которая вам нужна
+
+Какой вид заказчика делает больше покупок:
+\
+<image src="https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/by_which_customer_made_more_sales.png" alt="Какой вид заказчика делает больше покупок">
+\
+Рекордное количество продаж каждого штата:
+\
+<image src="https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/the_record_count_sales.png" alt="Рекордное количество продаж каждого штата">
+\
+Какой штат принес больше прибыли:
+\
+<image src="https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/from_which_state_was_made_more_sales.png" alt="Какой штат принес больше прибыли">
+
