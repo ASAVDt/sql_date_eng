@@ -95,4 +95,4 @@ inner join dw.customer_dim cd on sf.cust_id=cd.cust_id;
 * [DATA LAKE AND DATA WAREHOUSE](https://habr.com/ru/articles/485180/) 
 * [Схемы Звезда и Снежинка](https://www.astera.com/ru/type/blog/star-schema-vs-snowflake-schema/)
 * [Моделирование данных](https://habr.com/ru/articles/556790/)
-* [Как подключать и работать с Google Data Studio](https://easyinsights.ai/forum/t/how-do-i-connect-google-datastudio-with-postegresql/109/)
+* [Как подключаться и работать с Google Data Studio](https://easyinsights.ai/forum/t/how-do-i-connect-google-datastudio-with-postegresql/109/)
