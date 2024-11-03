@@ -65,7 +65,7 @@ src="https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/%D1%84%D0%B8%D0
 
 Подробная интрукция подключение находиться по этой [ссылке](https://easyinsights.ai/forum/t/how-do-i-connect-google-datastudio-with-postegresql/109/)\
 \
-После подключение к бд выполняем этот запрос:\
+После подключение к бд выполняем этот запрос: \
 
 ```
 select count(*) from dw.sales_fact sf
