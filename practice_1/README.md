@@ -60,3 +60,17 @@ src="https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/%D1%84%D0%B8%D0
 Код sql физической модели данных берите [здесь](https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/physical_model_data.sql)
 
 ---
+
+# Подключаем базу данных к  Google Data Studio
+
+Подробная интрукция подключение находиться по этой [ссылке](https://easyinsights.ai/forum/t/how-do-i-connect-google-datastudio-with-postegresql/109/)\
+\
+После подключение к бд выполняем этот запрос:\
+
+```
+select count(*) from dw.sales_fact sf
+inner join dw.shipping_dim s on sf.ship_id=s.ship_id
+inner join dw.geo_dim g on sf.geo_id=g.geo_id
+inner join dw.product_dim p on sf.prod_id=p.prod_id
+inner join dw.customer_dim cd on sf.cust_id=cd.cust_id;
+```
