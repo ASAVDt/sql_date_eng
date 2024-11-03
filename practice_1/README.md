@@ -74,3 +74,5 @@ inner join dw.geo_dim g on sf.geo_id=g.geo_id
 inner join dw.product_dim p on sf.prod_id=p.prod_id
 inner join dw.customer_dim cd on sf.cust_id=cd.cust_id;
 ```
+---
+## Готово! Теперь вы можете делать аналитику прямо в Google Data Studio и получать любую аналитическую характиристику которая вам нужна
