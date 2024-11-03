@@ -89,3 +89,7 @@ inner join dw.customer_dim cd on sf.cust_id=cd.cust_id;
 \
 <image src="https://github.com/ASAVDt/sql_date_eng/blob/main/practice_1/from_which_state_was_made_more_sales.png" alt="Какой штат принес больше прибыли">
 
+---
+# Поздравляю! Теперь вы знаете какой путь проходят данные до такого как они дойдут до аналитиков данных и BI 
+Теперь вы знаете что такое:
+* [DATA LAKE AND DATA WAREHOUSE](https://habr.com/ru/articles/485180/) 
